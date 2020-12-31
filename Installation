@@ -1,0 +1,6 @@
+#requirements
+=============
+
+pkg install python 
+pip install tqdm
+pip install requests 
